@@ -1,0 +1,17 @@
+{
+  "movies": "Movies",
+  "favorite_movies": " Favorite Movies",
+  "movie_detail": "Movie Detail",
+  "search_box_placeholder": "Enter a word to search movies...",
+  "something_went_wrong": "Something went wrong!",
+  "movie_detail_title": "Title:",
+  "movie_detail_actors": "Actors: ",
+  "movie_detail_year": "Year: ",
+  "movie_detail_imdb_id": "imdbID: ",
+  "add_to_favorites": "Add To Favorite",
+  "remove_from_favorites": "Remove From Favorite",
+  "search": "Search",
+  "empty_search_message": "Search and filter for movies...",
+  "no_favorite_message": "Favorite movies are empty...",
+  "dropdown_menu_search_placeholder": "Search..."
+}
